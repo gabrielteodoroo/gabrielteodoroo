@@ -13,10 +13,12 @@
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>&nbsp;&nbsp;
 </p>
+
+<div align='center'>
   
-<p align='center'>
-  <a href="#"><img src="https://github-readme-stats-sigma-five.vercel.app/api?username=gabrielteodoroo&show_icons=true&theme=dark" width="350"></a>
-</p>
+  <a href="#"><img src="https://github-readme-stats-sigma-five.vercel.app/api?username=gabrielteodoroo&show_icons=true&theme=dark#gh-dark-mode-only" width="350"></a>
+  
+</div>
 
 <p align='center'>
   💻 My workspace<br/><br/>
