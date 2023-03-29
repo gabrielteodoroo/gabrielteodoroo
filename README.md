@@ -12,11 +12,7 @@ camadas de um aplicativo, incluindo o front-end, o back-end. Além das habilidad
 lógico e colaboração em equipe.
 </p>
 
-<div align='center'>
-  <a href="https://www.linkedin.com/in/gabriel-teodoro-24baa8214/">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>&nbsp;&nbsp;
-</div>
+
 
 <div align='center'>
   
@@ -55,4 +51,11 @@ lógico e colaboração em equipe.
   <img src="https://skillicons.dev/icons?i=laravel" />
   <img src="https://skillicons.dev/icons?i=nextjs" />
   <img src="https://skillicons.dev/icons?i=nestjs" />
+</p>
+
+<p align='center'>
+  👨‍💻 Contato:<br/><br/>
+   <a href="https://www.linkedin.com/in/gabriel-teodoro-24baa8214/" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+    <a href="https://www.instagram.com/gabrielteodorob/?hl=pt-br" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+    <a href="http://api.whatsapp.com/send?phone=5575988849588" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
 </p>
