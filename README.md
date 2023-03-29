@@ -12,11 +12,11 @@ camadas de um aplicativo, incluindo o front-end, o back-end. Além das habilidad
 lógico e colaboração em equipe.
 </p>
 
-<p align='center'>
+<div align='center'>
   <a href="https://www.linkedin.com/in/gabriel-teodoro-24baa8214/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>&nbsp;&nbsp;
-</p>
+</div>
 
 <div align='center'>
   
@@ -33,10 +33,26 @@ lógico e colaboração em equipe.
 </p>
 
 <p align='center'>
-  👨‍💻 Tecnologias que trabalho:<br/><br/>
+  👨‍💻 Skills:<br/><br/>
   <img src="https://skillicons.dev/icons?i=html" />
   <img src="https://skillicons.dev/icons?i=css" />
   <img src="https://skillicons.dev/icons?i=js" />
   <img src="https://skillicons.dev/icons?i=react" />
   <img src="https://skillicons.dev/icons?i=nodejs" />
+  <img src="https://skillicons.dev/icons?i=postgres" />
+</p>
+
+<p align='center'>
+  👨‍💻 Estudando:<br/><br/>
+  <img src="https://skillicons.dev/icons?i=react" />
+  <img src="https://skillicons.dev/icons?i=nodejs" />
+  <img src="https://skillicons.dev/icons?i=typescript" />
+</p>
+
+<p align='center'>
+  👨‍💻 Pretendo estudar:<br/><br/>
+  <img src="https://skillicons.dev/icons?i=php" />
+  <img src="https://skillicons.dev/icons?i=laravel" />
+  <img src="https://skillicons.dev/icons?i=nextjs" />
+  <img src="https://skillicons.dev/icons?i=nestjs" />
 </p>
