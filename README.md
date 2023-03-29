@@ -5,7 +5,11 @@
 </h1>
 
 <p align='center'>
-  Sou um Desenvolvedor Web Full-Stack.
+  Como Desenvolvedor Fullstack e técnico em informática pelo CETEP-I, tenho 
+habilidades em programação de software, desenvolvimento web, banco de 
+dados e gerenciamento de projetos. Sou capaz de trabalhar em todas as 
+camadas de um aplicativo, incluindo o front-end, o back-end. Além das habilidades citadas abaixo, possuo habilidades em resolução de problemas, pensamento 
+lógico e colaboração em equipe.
 </p>
 
 <p align='center'>
