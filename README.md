@@ -12,14 +12,6 @@ camadas de um aplicativo, incluindo o front-end, o back-end. Além das habilidad
 lógico e colaboração em equipe.
 </p>
 
-
-
-<div align='center'>
-  
-  <a href="#"><img src="https://github-readme-stats-sigma-five.vercel.app/api?username=gabrielteodoroo&show_icons=true&theme=dark#gh-dark-mode-only" width="350"></a>
-  
-</div>
-
 <p align='center'>
   💻 My workspace<br/><br/>
   <img src="https://img.shields.io/badge/windows-%230078D6.svg?&style=for-the-badge&logo=windows&logoColor=white" />
