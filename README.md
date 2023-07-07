@@ -33,17 +33,14 @@ lógico e colaboração em equipe.
 
 <p align='center'>
   👨‍💻 Estudando:<br/><br/>
-  <img src="https://skillicons.dev/icons?i=react" />
-  <img src="https://skillicons.dev/icons?i=nodejs" />
-  <img src="https://skillicons.dev/icons?i=typescript" />
   <img src="https://skillicons.dev/icons?i=nestjs" />
+  <img src="https://skillicons.dev/icons?i=nextjs" />
 </p>
 
 <p align='center'>
   👨‍💻 Pretendo estudar:<br/><br/>
   <img src="https://skillicons.dev/icons?i=php" />
   <img src="https://skillicons.dev/icons?i=laravel" />
-  <img src="https://skillicons.dev/icons?i=nextjs" />
 </p>
 
 <p align='center'>
