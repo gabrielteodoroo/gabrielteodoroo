@@ -34,14 +34,14 @@ lógico e colaboração em equipe.
 <p align='center'>
   👨‍💻 Estudando:<br/><br/>
   <img src="https://skillicons.dev/icons?i=nestjs" />
-  <img src="https://skillicons.dev/icons?i=php" />
+  
   <img src="https://skillicons.dev/icons?i=typescript" />
 </p>
 
 <p align='center'>
   👨‍💻 Pretendo estudar:<br/><br/>
   <img src="https://skillicons.dev/icons?i=nextjs" />
-  
+  <img src="https://skillicons.dev/icons?i=php" />
   <img src="https://skillicons.dev/icons?i=laravel" />
 </p>
 
