@@ -34,9 +34,9 @@ lógico e colaboração em equipe.
 
 <p align='center'>
   👨‍💻 Estudando:<br/><br/>
-  <img src="https://skillicons.dev/icons?i=nestjs" />
+  <img src="https://skillicons.dev/icons?i=java" />
   
-  <img src="https://skillicons.dev/icons?i=typescript" />
+  <img src="https://skillicons.dev/icons?i=spring" />
 </p>
 
 <p align='center'>
