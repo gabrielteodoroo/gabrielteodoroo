@@ -41,7 +41,6 @@ lógico e colaboração em equipe.
 
 <p align='center'>
   👨‍💻 Pretendo estudar:<br/><br/>
-  <img src="https://skillicons.dev/icons?i=nextjs" />
   <img src="https://skillicons.dev/icons?i=docker" />
   <img src="https://skillicons.dev/icons?i=aws" />
 </p>
