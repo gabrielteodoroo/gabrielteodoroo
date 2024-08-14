@@ -5,7 +5,7 @@
 </h1>
 
 <p align='center'>
-  Como Desenvolvedor Fullstack e técnico em informática pelo CETEP-I, tenho 
+  Como Desenvolvedor Fullstack, tenho 
 habilidades em programação de software, desenvolvimento web, banco de 
 dados e gerenciamento de projetos. Sou capaz de trabalhar em todas as 
 camadas de um aplicativo, incluindo o front-end, o back-end. Além das habilidades citadas abaixo, possuo habilidades em resolução de problemas, pensamento 
@@ -30,18 +30,20 @@ lógico e colaboração em equipe.
   <img src="https://skillicons.dev/icons?i=postgres" />
   <img src="https://skillicons.dev/icons?i=prisma" />
   <img src="https://skillicons.dev/icons?i=typescript" />
+  <img src="https://skillicons.dev/icons?i=jest" />
+  <img src="https://skillicons.dev/icons?i=nestjs" />
+  <img src="https://skillicons.dev/icons?i=mysql" />
 </p>
 
 <p align='center'>
   👨‍💻 Estudando:<br/><br/>
   <img src="https://skillicons.dev/icons?i=docker" />
-  <img src="https://skillicons.dev/icons?i=python" />
-  <img src="https://skillicons.dev/icons?i=cypress" />
 </p>
 
 <p align='center'>
   👨‍💻 Pretendo estudar:<br/><br/>
   <img src="https://skillicons.dev/icons?i=aws" />
+  <img src="https://skillicons.dev/icons?i=nextjs" />
 </p>
 
 <p align='center'>
