@@ -38,12 +38,12 @@ lógico e colaboração em equipe.
 <p align='center'>
   👨‍💻 Estudando:<br/><br/>
   <img src="https://skillicons.dev/icons?i=docker" />
+  <img src="https://skillicons.dev/icons?i=nextjs" />
 </p>
 
 <p align='center'>
   👨‍💻 Pretendo estudar:<br/><br/>
   <img src="https://skillicons.dev/icons?i=aws" />
-  <img src="https://skillicons.dev/icons?i=nextjs" />
 </p>
 
 <p align='center'>
