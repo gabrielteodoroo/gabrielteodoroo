@@ -37,8 +37,7 @@ lógico e colaboração em equipe.
 
 <p align='center'>
   👨‍💻 Estudando:<br/><br/>
-  <img src="https://skillicons.dev/icons?i=docker" />
-  <img src="https://skillicons.dev/icons?i=python" />
+  <img src="https://skillicons.dev/icons?i=java" />
 </p>
 
 <p align='center'>
